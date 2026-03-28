@@ -1,0 +1,15 @@
+{
+  "name": "montana-surf-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "zod": "^3.23.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
